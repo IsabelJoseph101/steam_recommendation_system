@@ -1,16 +1,4 @@
-# Capstone Template for London Campus  
-
-This repository is a boilerplate template for Flatiron School captstone projects.
-The idea here is that you can take this repository and use it as jumping off point to structure your project so you don't have to re-invent the wheel in terms of the organization of the project.
-If you don't like how this repo is organised, you don't have to stick to it, feel free to change it.
-That said, this format here is a tried and tested format that should work for you! 
-
-The way to use this template is to just copy and paste the file structure (don't fork it, you don't want to be just manipulating a template!) to your new initialized repo and fill in things where they should go.
-We also suggest if you need direction to check out the `Project Checklist` markdown file  that is found in this repository as well as the [Capstone Questions](https://docs.google.com/document/d/11Otz1b2oRT3Xn0TK16X1o44hphGP4aBqdpARv0GWXBA/edit?usp=sharing) document for help building and assessing this project. 
-Both this boiler plate and the checklist were built simultaneously, so feel free to use them in tandem. 
-
-> Eventually you will delete everything above this line. This is just here to introduce the boilerplate. We also suggest deleting any other indentations like this. There are more there to get you thinking about the 'point' of the section. 
-# The Title of Your Project Goes Here 
+# Steam recommendation system
 
 One sentence summary goes here saying what you did.
 A second sentence goes here says why it matters.
@@ -25,11 +13,10 @@ You can also link to
 
 ### Executive Summary
 
-Start with one or two sentences here that contextualises what your project matters here.
-These two sentences will demonstrate your business understanding. 
+For this project the aim is to improve steam's current recommendation system to provide users with much more accurate recommendations.
 
-Next, in a second paragraph, write how you were able to make a data science operationalization of the problem.
-For example, you might say that in order to help solve this problem you set out to build a classification ML model in order to automate some process. 
+To solve this problem, i will be creating a content and collaborative based recommendation model that provides video game recommendations to steam users. This project will utlize Steam's API, SteamSpy's API along with data sets sourced from kaggle in order to create a recommendation system.
+
 
 Third, you then write what you did on the project that is a bit more technical.
 Here you might say that you took data from [here and make it a link to the original data]() and then ran `a list of models you ran here` in your analysis.
