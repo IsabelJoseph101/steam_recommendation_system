@@ -1,11 +1,11 @@
 # Steam recommendation system
 
-For this project i created a recommendation system for steam games. My goal for this project is to provide more accurate predictions regarding providing a user with recommendations.
+Steam is the largest video game hosting platform in the market with a large caleloge full of games. With access to such a variety of games, sometimes users may feel overwelmed, or feel unsure with where to start, there for it is absolutely vital that both customers new and old are provided with recommendended suitable games that align with their specific preferences. 
 
-You can also link to 
-* [Your Email]()
-* [Your Linked In]()
-* [Your Twitter?]()
+Therefore for this project i decided to create a recommendation system for steam games to help users find suitable game recommendations that they would be interested in. My goal for this project is to provide more accurate predictions regarding providing a user with recommendations.
+
+Links:
+* [isabel.susan.joseph@gmail.com]()
 
 
 ### Executive Summary
@@ -17,6 +17,9 @@ To solve this problem, i will be creating a content and collaborative based reco
 I took data for this project from Steam's api, Steamspy and two kaggle data sets.
 * [https://www.kaggle.com/tamber/steam-video-games]()
 * [https://www.kaggle.com/nikdavis/steam-store-games]()
+* [https://steamcommunity.com/dev]()
+* [https://steamspy.com/]()
+
 
 Following that i ran multiple models
 
@@ -37,18 +40,11 @@ The goal of this project was to create a `regression/classification` model that 
 
 ### More Information
 
-Below your Executive Summary, you can document whatever you feel would be of interest to a future employer.
 Here I would especially suggest diving a bit deeper into your methodology and including images that you are proud of from the project. 
-Remember, that people will probably judge your github project page within 45 seconds tops, you want it to look as clean as possible. 
 
-Write documentation that looks like someone you would want to work with.
 
 ### Show Off Your Data Viz
 
 ![Everyone Likes a Pairplot](figures/seaborn-pairplot-3.png)
 
 > Image taken from `seaborn` [documentation](https://seaborn.pydata.org/generated/seaborn.pairplot.html)
-
-**DO NOT PUT THE GOOD BITS OF YOUR PROJECT BURRIED AWAY AT THE BOTTOM OF YOUR README, YOU ARE NOT WRITING A DETECTIVE NOVEL**
-
-
