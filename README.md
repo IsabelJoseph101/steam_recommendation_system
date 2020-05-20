@@ -1,15 +1,13 @@
 # Steam recommendation system
 
-One sentence summary goes here saying what you did.
+For this project i created a recommendation system for steam games.
 A second sentence goes here says why it matters.
-A last sentence links to any productionized web dashboard here.
 
 You can also link to 
 * [Your Email]()
 * [Your Linked In]()
 * [Your Twitter?]()
 
-> We suggest that people follow a "Facebook Page" approach to writing up their README. This means that the most important information is at the top (your name, point of project, contact info) and then as you go down the document you get less and less relevant information. Remember that you are NOT writing a detective story and need to find a way to present as much information as quickly as possible to the person that will be looking at this for 45 seconds tops. Of course others might look for longer, but the UX/UI of your REAMDE should be done with the 'github skimmer' in mind.
 
 ### Executive Summary
 
@@ -17,6 +15,11 @@ For this project the aim is to improve steam's current recommendation system to 
 
 To solve this problem, i will be creating a content and collaborative based recommendation model that provides video game recommendations to steam users. This project will utlize Steam's API, SteamSpy's API along with data sets sourced from kaggle in order to create a recommendation system.
 
+I took data for this project from Steam's api, Steamspy and two kaggle data sets.
+* [https://www.kaggle.com/tamber/steam-video-games]()
+* [https://www.kaggle.com/nikdavis/steam-store-games]()
+
+Following that i ran multiple models
 
 Third, you then write what you did on the project that is a bit more technical.
 Here you might say that you took data from [here and make it a link to the original data]() and then ran `a list of models you ran here` in your analysis.
