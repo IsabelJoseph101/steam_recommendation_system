@@ -1,7 +1,6 @@
 # Steam recommendation system
 
-For this project i created a recommendation system for steam games.
-A second sentence goes here says why it matters.
+For this project i created a recommendation system for steam games. My goal for this project is to provide more accurate predictions regarding providing a user with recommendations.
 
 You can also link to 
 * [Your Email]()
