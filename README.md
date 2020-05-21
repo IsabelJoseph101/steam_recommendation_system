@@ -43,22 +43,20 @@ The goal of this project was to create a `regression/classification` model that 
 Here I would especially suggest diving a bit deeper into your methodology and including images that you are proud of from the project.
 
 data_cleaning.ipynb
-  Business understanding
-  Data preparation
-  Data cleaning
-  
- content_based.ipynb
-  Data understanding
-  modelling (content based model)
-  evaluation (content based model)
-  
- collaborative_based.ipynb
-  modelling (collaborative based model)
-  evaluation (collaborative based model)
-  comparison
-  comparision between models
-  deployment
+* [Business understanding]()
+* [Data preparation]()
+* [Data cleaning]()
 
+content_based.ipynb
+* [Data understanding]()
+* [Modelling (content based model)]()
+* [Evaluation (content based model)]()
+
+collaborative_based.ipynb
+ * [Modelling (collaborative based model)]()
+ * [Evaluation (collaborative based model)]()
+ * [Comparision between models]()
+ * [Deployment]()
 
 ### Show Off Your Data Viz
 
