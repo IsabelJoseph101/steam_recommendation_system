@@ -50,7 +50,7 @@ Evaluation (collaborative based model)
 Comparision between models
 Deployment
 
-### Show Off Your Data Viz
+### Data Visualizations
 
-(figures/hours_of_play_graph.png)
-(figures/purchase_play_graph.png)
+![Everyone Likes a Pairplot](figures/hours_of_play_graph.png)
+![Everyone Likes a Pairplot](figures/purchase_play_graph.png)
