@@ -11,19 +11,19 @@ You can go out of order if you'd like, but it might make sense to try to keep it
 Note that you can make both complete and non-complete checkmarks within markdown like the example here.
 
 * [X] Read the above paragraph
-* [ ] Copy this document to your github repo project
+* [X] Copy this document to your github repo project
 
 ## Setting Things Up 
 
-* [ ] Start a new github repo page for your capstone
-* [ ] Make sure the project has a clear name  
-* [ ] Initialize with a README 
-* [ ] Set project as public, not private 
-* [ ] Share your github link with the instructor in charge of your capstone  
-* [ ] Copy this checklist into your new project repo   
-* [ ] Check off some of these boxes you have completed like the example above 
-* [ ] Copy the Boilerplate README to your new repo
-* [ ] Push this repo with your first commit message!  
+* [X] Start a new github repo page for your capstone
+* [X] Make sure the project has a clear name  
+* [X] Initialize with a README 
+* [X] Set project as public, not private 
+* [X] Share your github link with the instructor in charge of your capstone  
+* [X] Copy this checklist into your new project repo   
+* [X] Check off some of these boxes you have completed like the example above 
+* [X] Copy the Boilerplate README to your new repo
+* [X] Push this repo with your first commit message!  
 
 ## Setting Your Large Goals 
 
@@ -31,7 +31,7 @@ It's important to start with the ends in mind for any large scale project.
 This does not mean that you want a specific result, but rather you know an exact question that you are pursuing at first.
 It is OK for this to change here or there, just make sure you document it.
 
-* [ ] Remove the top level instructional header of the boilerplate README 
+* [X] Remove the top level instructional header of the boilerplate README 
 * [ ] Fill in the boiler plate README with your current goals 
 * [ ] Leave blank any areas where you are not sure
 
@@ -85,16 +85,16 @@ At this point the data that has been downloaded should be imported in your `note
 With your data cleaned, it is now to time to do the most important part of the data science process and get to know it.
 The following checks will help guide your way.
 
-* [ ] You import a `clean_data.csv` file 
+* [X] You import a `clean_data.csv` file 
 * [ ] The top of your EDA file should have a brief summary of what you find in the EDA notebook 
-* [ ] Make sure you have plotted all of your data using the appropriate visualizations
-* [ ] You should have at least three data visualizations you are proud of and can later use on your README or examples that you can show future employers. 
-* [ ] Make sure you have examined the relationships between all important variables
+* [X] Make sure you have plotted all of your data using the appropriate visualizations
+* [X] You should have at least three data visualizations you are proud of and can later use on your README or examples that you can show future employers. 
+* [X] Make sure you have examined the relationships between all important variables
 * [ ] Use `##Level 2` headings to break up major points of your EDA
 * [ ] Check that the colorscheme you use is not the default scheme
 * [ ] Consider choosing a colorscheme that is colourblind friendly (viridis?) 
 * [ ] Make sure the axes are labelled and the font is not too small
-* [ ] Make sure all plots have titles
+* [X] Make sure all plots have titles
 * [ ] In your summary at the top, note anything that those modeling the data should be aware of
 
 ## Modeling
