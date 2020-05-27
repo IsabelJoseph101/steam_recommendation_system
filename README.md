@@ -44,11 +44,6 @@ collaborative_based.ipynb
 * Evaluation (collaborative based model) 
 * Deployment: future work and recommendations. 
 
-### Data Visualizations 
-
-![Everyone Likes a Pairplot](figures/hours_of_play_graph.png) 
-![Everyone Likes a Pairplot](figures/purchase_play_graph.png) 
-
 ### Future Improvements 
 
 * Developing improved recommendation systems using the hybrid filtering methods 
