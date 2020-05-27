@@ -21,9 +21,11 @@ I took data for this project from Steam's API, Steamspy and two Kaggle data sets
 * https://steamcommunity.com/dev
 * https://steamspy.com/
 
-Following that I ran multiple models for each of the collaborative and content-based models. With my collaborative model I used a memory-based model that used KNNBasic, KNNBaseline and as well as KNNWithMeans. In addition to that I also used SVD for my model based collaborative filtering model. According to the results obtained, after comparing all the RMSE and MAE scores among all the models, it was found out that the KNNBaseline with pearson similarity (USER BASED) model had performed the best out of all the other models ran. 
+Following that I ran multiple models for each of the collaborative and content-based models. With my collaborative model I used a memory-based model that used KNNBasic, KNNBaseline and as well as KNNWithMeans. In addition to that I also used SVD for my model based collaborative filtering model. 
 
 With my content-based model i utilized TFIDF, helps identify which item is similar to each other, and recommend a user similar items that the user has previously liked. 
+
+From the models that were ran, the item-based memory models tended to preform much better than the user-based models. The KNNBaseline with pearson similarity (ITEM BASED) model compared to the other models that were ran, showed a much more improved preformance according to the RMSE and MAE scores obtained.
 
 ### More Information 
 
