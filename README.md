@@ -5,6 +5,7 @@ Steam is the largest video game hosting platform in the market with a large cata
 Therefore, for this project I decided to create a recommendation system for steam games to help users find suitable game recommendations that they would be interested in. My goal for this project is to provide more accurate predictions regarding providing a user with accurate recommendations, through using a combination of steam's API, SteamSpy's API and Kaggle data sets as well. 
 
 Links: 
+* isabel.susan.joseph@gmail.com
 * https://www.linkedin.com/in/isabel-joseph-085b731aa
 
 ### Executive Summary 
