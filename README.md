@@ -5,7 +5,7 @@ Steam is the largest video game hosting platform in the market with a large cata
 Therefore, for this project I decided to create a recommendation system for steam games to help users find suitable game recommendations that they would be interested in. My goal for this project is to provide more accurate predictions regarding providing a user with accurate recommendations, through using a combination of steam's API, SteamSpy's API and Kaggle data sets as well. 
 
 Links: 
-* [https://www.linkedin.com/in/isabel-joseph-085b731aa](Linkedin) 
+* https://www.linkedin.com/in/isabel-joseph-085b731aa
 
 ### Executive Summary 
 
@@ -15,10 +15,10 @@ To solve this problem, i will be creating a content and collaborative based reco
 
 I took data for this project from Steam's API, Steamspy and two Kaggle data sets: 
 
-* [https://www.kaggle.com/tamber/steam-video-games]() 
-* [https://www.kaggle.com/nikdavis/steam-store-games]() 
-* [https://steamcommunity.com/dev]() 
-* [https://steamspy.com/]() 
+* https://www.kaggle.com/tamber/steam-video-games
+* https://www.kaggle.com/nikdavis/steam-store-games
+* https://steamcommunity.com/dev
+* https://steamspy.com/
 
 Following that I ran multiple models for each of the collaborative and content-based models. With my collaborative model I used a memory-based model that used KNNBasic, KNNBaseline and as well as KNNWithMeans. In addition to that I also used SVD for my model based collaborative filtering model. According to the results obtained, after comparing all the RMSE and MAE scores among all the models, it was found out that the KNNBaseline with pearson similarity (USER BASED) model had performed the best out of all the other models ran. 
 
