@@ -21,34 +21,33 @@ I took data for this project from Steam's api, Steamspy and two kaggle data sets
 * [https://steamspy.com/]()
 
 
-Following that i ran multiple models for each of the collaborative and content based models. With my collaborative model i used a memory based model that used KNNBasic, KNNBaseline and as well as KNNWithMeans. In addition to that i also developed a model based collaborative filtering model using SVD's. According to the results obtained, it was found out that the KNNBaseline with pearson similarity (USER BASED) model had preformed the best out of all of the other models ran. 
+Following that i ran multiple models for each of the collaborative and content based models. With my collaborative model i used a memory based model that used KNNBasic, KNNBaseline and as well as KNNWithMeans. In addition to that i also used SVD for my model based collaborative filtering model. According to the results obtained, after comparing all the RMSE and MAE scores among all the models, it was found out that the KNNBaseline with pearson similarity (USER BASED) model had preformed the best out of all of the other models ran. 
 
 With my content based model i utlized TFIDF, helps identify which item is similar to each other, and  recommend a user similar items that the user has previously liked.
+ 
 
-Then end with one sentence that picks what your best model was and how it performed.
 
-Lastly, you say in one or two sentences why this matters. 
-For example, now as opposed to before this data analysis, you can now predict X better than Y. 
+
 
 ### More Information
 
-Here I would especially suggest diving a bit deeper into your methodology and including images that you are proud of from the project.
+
 
 data_cleaning.ipynb
-Business understanding
-Data preparation
-Data cleaning
+*Business understanding
+*Data preparation
+*Data cleaning
 
 content_based.ipynb
-Data understanding
-Modelling (content based model)
-Evaluation (content based model)
+*Data understanding
+*Modeling (content based model)
+*Evaluation (content based model)
 
 collaborative_based.ipynb
-Modelling (collaborative based model)
-Evaluation (collaborative based model)
-Comparision between models
-Deployment
+*Modeling (collaborative based model)
+*Evaluation (collaborative based model)
+*Comparison between models
+*Deployment
 
 ### Data Visualizations
 
