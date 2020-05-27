@@ -32,22 +32,20 @@ With my content based model i utlized TFIDF, helps identify which item is simila
 ### More Information
 
 
-
 data_cleaning.ipynb
-*Business understanding
-*Data preparation
-*Data cleaning
+* Business understanding
+* Data preparation
+* Data cleaning
 
 content_based.ipynb
-*Data understanding
-*Modeling (content based model)
-*Evaluation (content based model)
+* Data understanding
+* Modeling (content based model)
+* Evaluation (content based model)
 
 collaborative_based.ipynb
-*Modeling (collaborative based model)
-*Evaluation (collaborative based model)
-*Comparison between models
-*Deployment
+* Modeling (collaborative based model)
+* Evaluation (collaborative based model)
+* Deployment
 
 ### Data Visualizations
 
