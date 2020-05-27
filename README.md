@@ -2,7 +2,7 @@
 
 Steam is the largest video game hosting platform in the market with a large caleloge full of games. With access to such a variety of games, sometimes users may feel overwelmed, or feel unsure with where to start, there for it is absolutely vital that both customers new and old are provided with recommendended suitable games that align with their specific preferences. 
 
-Therefore for this project i decided to create a recommendation system for steam games to help users find suitable game recommendations that they would be interested in. My goal for this project is to provide more accurate predictions regarding providing a user with accurate recommendations, through using a combination of steam's api, steamspy's api and kaggle data sets as well..
+Therefore for this project i decided to create a recommendation system for steam games to help users find suitable game recommendations that they would be interested in. My goal for this project is to provide more accurate predictions regarding providing a user with accurate recommendations, through using a combination of steam's api, steamspy's api and kaggle data sets as well.
 
 Links:
 * [isabel.susan.joseph@gmail.com]()
@@ -34,18 +34,18 @@ With my content based model i utlized TFIDF, helps identify which item is simila
 
 data_cleaning.ipynb
 * Business understanding
-* Data preparation
-* Data cleaning
+* Data preparation: obtaining data from Steam’s API, SteamSpy’s API and as well as obtaining the two data sets sourced from Kaggle. At this stage I also merged all of the data frames together to form one data frame containing all the necessary information needed for creating a recommender system.
+* Data cleaning: removing duplicate ids, dealing with null values and also transforming some of the data to make it more usable. 
 
 content_based.ipynb
-* Data understanding
+* Data understanding: EDA
 * Modeling (content based model)
 * Evaluation (content based model)
 
 collaborative_based.ipynb
 * Modeling (collaborative based model)
 * Evaluation (collaborative based model)
-* Deployment
+* Deployment: future work and recommendations.
 
 ### Data Visualizations
 
