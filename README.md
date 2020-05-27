@@ -38,12 +38,12 @@ data_cleaning.ipynb
 * Data cleaning: removing duplicate ids, dealing with null values and also transforming some of the data to make it more usable. 
 
 content_based.ipynb
-* Data understanding: EDA
-* Modeling (content based model)
+* Data understanding: exploratory data analysis 
+* Modeling (content based model): creating a content based model using TFIDF
 * Evaluation (content based model)
 
 collaborative_based.ipynb
-* Modeling (collaborative based model)
+* Modeling (collaborative based model): i used a memory based model that uses KNNBasic, KNNBaseline and KNNWithMeans. As well as using SVD for my model based collaborative filtering model.
 * Evaluation (collaborative based model)
 * Deployment: future work and recommendations.
 
