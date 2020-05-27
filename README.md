@@ -1,8 +1,8 @@
 # Steam recommendation system
 
-Steam is the largest video game hosting platform in the market with a large caleloge full of games. With access to such a variety of games, sometimes users may feel overwelmed, or feel unsure with where to start, there for it is absolutely vital that both customers new and old are provided with recommendended suitable games that align with their specific preferences. 
+Steam is the largest video game hosting platform in the market with a large catalogue full of games. With access to such a variety of games, sometimes users may feel overwhelmed, or feel unsure with where to start, therefor it is absolutely vital that both customers new and old are provided with recommended suitable games that align with their specific preferences. 
 
-Therefore for this project i decided to create a recommendation system for steam games to help users find suitable game recommendations that they would be interested in. My goal for this project is to provide more accurate predictions regarding providing a user with accurate recommendations, through using a combination of steam's api, steamspy's api and kaggle data sets as well.
+Therefore for this project i decided to create a recommendation system for steam games to help users find suitable game recommendations that they would be interested in. My goal for this project is to provide more accurate predictions regarding providing a user with accurate recommendations, through using a combination of Steam's API, SteamSpy's API and Kaggle data sets as well.
 
 Links:
 * [isabel.susan.joseph@gmail.com]()
@@ -51,3 +51,9 @@ collaborative_based.ipynb
 
 ![Everyone Likes a Pairplot](figures/hours_of_play_graph.png)
 ![Everyone Likes a Pairplot](figures/purchase_play_graph.png)
+
+### Future Improvements 
+
+* Developing improved recommendation systems using the hybrid filtering methods 
+* Solely using Steam's API to form game recommendations  
+* Using matrix factorization techniques 
